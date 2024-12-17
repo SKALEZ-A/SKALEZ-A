@@ -28,31 +28,36 @@
 <!-- Trophy Section -->
 ### 🏆 GitHub Trophy
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SKALEZ-A&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="GitHub Trophy"/>
+<a href="https://skalez-codes.vercel.app">
+  <img src="https://github-profile-trophy.vercel.app/?username=SKALEZ-A&theme=gruvbox" alt="GitHub Trophy"/>
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=skalez-a&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="GitHub Trophy"/> -->
-</p>
+</a>
 
 ---
 
 <!-- Stats Section -->
 ### 📊 More Stats
 
+  ![](https://komarev.com/ghpvc/?username=skalez-a&color=green) <br />
+
 <div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=skalez-a&color=brightgreen" alt="Profile Views"/>
-  </p>
-  
-  <h3>GitHub Stats</h3>
-  
+
+
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=skalez-a&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      
+**Github Stats**
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=skalez-a&show_icons=true" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skalez-a&layout=compact&theme=radical" alt="Top Languages"/>
-      </td>
+
+ ## Streak Stats
+
+<a href="https://skalez-a.github.io">
+<img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=skalez-a&theme=dark">
+</a>
+ </td>
     </tr>
   </table>
 
