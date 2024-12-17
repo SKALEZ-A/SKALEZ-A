@@ -7,11 +7,11 @@
     <br/>
     🌍 earth
     <br/>
-    📧 <a href="mailto:eliscodavid@gmail.com">eliscodavid@gmail.com</a>  
+    📧 <a href="mailto:holumacbeth@gmail.com">holumacbeth@gmail.com</a>  
     <br/>
-    🌐 <a href="https://www.defidevrel.xyz">https://www.defidevrel.xyz</a>  
+    🌐 <a href="https://skalez-codes.vercel.app">https://skalez-codes.vercel.app</a>  
     <br/>
-    🐦 Twitter: <a href="https://twitter.com/defidevrel">@defidevrel</a>
+    🐦 Twitter: <a href="https://twitter.com/skalezDgreat">@skalezDgreat</a>
   </p>
 </div>
 
