@@ -6,8 +6,11 @@
     Blockchain Engineer | Web3 Writer  
     <br/>
     🌍 earth
+    <br/>
     📧 <a href="mailto:eliscodavid@gmail.com">eliscodavid@gmail.com</a>  
+    <br/>
     🌐 <a href="https://www.defidevrel.xyz">https://www.defidevrel.xyz</a>  
+    <br/>
     🐦 Twitter: <a href="https://twitter.com/defidevrel">@defidevrel</a>
   </p>
 </div>
